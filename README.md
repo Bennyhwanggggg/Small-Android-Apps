@@ -1,5 +1,5 @@
 # Small-Android-Apps
-Small Android Apps written using Java with Android Studios:  
+Small Android Apps written using Java with Android Studios
 
 ## Calculator
 Basic Calculator App.  
